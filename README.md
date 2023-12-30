@@ -26,7 +26,7 @@
     <br />
     <!--<a href="https://github.com/kea-roy/WaveOut"><strong>Explore the docs »</strong></a>-->
     <br />
-    <a href="https://github.com/kea-roy/WaveOut/tree/main/src">View Code</a>
+    <a href="https://github.com/kea-roy/WaveOut/tree/main/">View Code</a>
     ·
     <a href="https://github.com/kea-roy/WaveOut/issues">Report Bug</a>
     ·
